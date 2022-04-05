@@ -1,7 +1,7 @@
 #.bam to .egg converter
 # Zeb Hering
 # 4/4/2022
-$filepath = 'Z:\Mylez\Projects\Tlopo\Old Potco Files\2008 potco\phases in one place\' #This is our file path the script will operate out of
+$filepath = 'C:\yourfoldernamehere\' #This is our file path the script will operate out of
 cd $filepath
 
 $bamfiles = @(Get-ChildItem -Path $filepath -Filter *.bam -Recurse) #get all .bam files in $filepath
