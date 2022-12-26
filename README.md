@@ -5,3 +5,6 @@ run the move_all_bam_to_single_folder in CMD to move everything into a single fo
 make sure bam2egg.exe is in the same folder as the ps1!
 
 IGNORE errors it runs!
+
+
+if you cant run it due to it not being digitally signed run this command Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
