@@ -1,7 +1,7 @@
 # bam2egg-script
 My friend made a egg2bam script for me to automate the export of .bam files into .egg files for use in blender
 
-run the move_all_bam_to_single_folder in CMD to move everything into a single folder then run this scrpit to convert it!\
+run the move_all_bam_to_single_folder in CMD to move everything into a single folder then run this script to convert it!\
 make sure bam2egg.exe is in the same folder as the ps1!
 
 IGNORE errors it runs!
