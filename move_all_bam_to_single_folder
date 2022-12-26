@@ -1,0 +1,1 @@
+FOR /R "source file path of phase folders" %i IN (*.BAM) DO MOVE "%i" "destination path"
